@@ -1,3 +1,10 @@
+	Create cloudflare pages, Build settings:
+	Framework preset: next.js
+	Build command: yarn build
+	Build output: .next
+	Environment variables (advanced): YARN_VERSION=1
+
+
 ### Join the community & report bugs
 
 If you wish to report an issue, please join our [Discord](https://discord.swap.defillama.com/)
